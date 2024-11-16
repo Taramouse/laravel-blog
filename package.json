@@ -22,7 +22,7 @@
         "popper.js": "1.15.0",
         "pusher-js": "5.0.2",
         "trumbowyg": "2.19.1",
-        "vue": "2.6.10"
+        "vue": "3.5.13"
     },
     "devDependencies": {
         "eslint": "6.4.0",
